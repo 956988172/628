@@ -1,0 +1,9 @@
+平,#genre#
+刷新,http://.m3u8
+
+珠江,#genre#
+珠江0,http://14.145.201.217:8888/udp/239.77.0.114:5146
+珠江1,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+珠江2,
+珠江3,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+珠江4,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
