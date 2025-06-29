@@ -2,7 +2,7 @@
 刷新,http://.m3u8
 
 珠江,#genre#
-珠江0,http://14.145.201.217:8888/udp/239.77.0.114:5146
+珠江0,http://183.30.201.9:10002/udp/239.77.1.94:5146
 珠江1,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 珠江2,
 珠江3,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
